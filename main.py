@@ -46,8 +46,8 @@ def draw_minecraft_font(image, text, font_size, x, y):
 
     if '+' in shadow:
         for c in shadow:
-            x2 = y + font.getsize(c)[1] / 8.5 + b
-            y2 = y + font.getsize(c)[1] / 8.5
+            x2 = y + font.getsize(c)[1] / 9 + b
+            y2 = y + font.getsize(c)[1] / 9
             if c == '+':
                 h = font.getsize(c)[1]
                 y2 -= h / 10
@@ -56,8 +56,8 @@ def draw_minecraft_font(image, text, font_size, x, y):
             if c == '+':
                 y2 += h / 10
     else:
-        x2 = y + font.getsize('a')[1] / 8.5 + b
-        y2 = y + font.getsize('a')[1] / 8.5
+        x2 = y + font.getsize('a')[1] / 9 + b
+        y2 = y + font.getsize('a')[1] / 9
         draw.text(xy=(x2, y2), text=f"{shadow}", font=font, fill=f'#555555')
 
     for c in text:
