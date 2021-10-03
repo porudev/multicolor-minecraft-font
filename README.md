@@ -1,4 +1,4 @@
-# python-multicoloured-minecraft-font
+# Python Multicolored Minecraft Text Render
 Draw a multicoloured minecraft font based text using pillow through minecraft chat codes
 ____________________________________________________________________________
 
