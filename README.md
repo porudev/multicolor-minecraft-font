@@ -14,10 +14,10 @@ https://www.digminecraft.com/lists/color_list_pc.php
 ___________________________________________________________
 
 
-before:
+input:
 ![image](https://user-images.githubusercontent.com/87112416/135759352-99ba4ed2-b8eb-49fb-bacc-9422edaec61d.png)
 
-after:
+output:
 ![after](https://user-images.githubusercontent.com/87112416/135760518-2ba1b409-c4c7-403a-b1a4-ad8936563cac.png)
 ________________________________________________________________
 
