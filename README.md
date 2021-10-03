@@ -1,5 +1,5 @@
 # python-multicoloured-minecraft-font
-Draw a multicoloured minecraft font based text using PIL
+Draw a multicoloured minecraft font based text using pillow through minecraft chat codes
 
 Packages: PIL (Pillow), math
 
