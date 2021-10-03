@@ -1,6 +1,6 @@
 # python-minecraft-font
-Draw a minecraft font based text using PIL
+Draw a multi-coloured minecraft font based text using PIL
 
-Package: PIL (Pillow), math
+Packages: PIL (Pillow), math
 
 Author: zircs (original), porudev (contributor)
