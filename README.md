@@ -11,6 +11,8 @@ _________________________________________________________________________
 
 Minecraft chat codes to their symbols:
 https://www.digminecraft.com/lists/color_list_pc.php
+
+Available characters: &, §
 ___________________________________________________________
 
 
